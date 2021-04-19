@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0B743D0AE0E41E82F1CDE506 /* Pods_ACore_ACoreTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA21C7F8A5733B061F87A3B7 /* Pods_ACore_ACoreTests.framework */; };
-		731267E06FD9B66FA1997CCE /* Pods_ACore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32ABF604EBCFF254BE8DB99C /* Pods_ACore.framework */; };
+		339D0ED861BFBD488687D682 /* Pods_ACore_ACoreTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 06C676AC9E1B081EDE0377F7 /* Pods_ACore_ACoreTests.framework */; };
+		6BCFF9BAC9C6F0BDBB626B39 /* Pods_ACore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB095296C248EDF88067A2C6 /* Pods_ACore.framework */; };
 		7F5D4DB5262D537300B4D8B5 /* ACore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F5D4DAB262D537300B4D8B5 /* ACore.framework */; };
 		7F5D4DBA262D537300B4D8B5 /* ACoreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F5D4DB9262D537300B4D8B5 /* ACoreTests.swift */; };
 		7F5D4DBC262D537300B4D8B5 /* ACore.h in Headers */ = {isa = PBXBuildFile; fileRef = 7F5D4DAE262D537300B4D8B5 /* ACore.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -26,10 +26,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		05DEF76F0D44287B03BABC77 /* Pods-ACore-ACoreTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ACore-ACoreTests.debug.xcconfig"; path = "Target Support Files/Pods-ACore-ACoreTests/Pods-ACore-ACoreTests.debug.xcconfig"; sourceTree = "<group>"; };
-		0B11EA68BC870EC9C62F3AEF /* Pods-ACore.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ACore.debug.xcconfig"; path = "Target Support Files/Pods-ACore/Pods-ACore.debug.xcconfig"; sourceTree = "<group>"; };
-		32ABF604EBCFF254BE8DB99C /* Pods_ACore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ACore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		354FD45F2F7FEED30073E225 /* Pods-ACore-ACoreTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ACore-ACoreTests.release.xcconfig"; path = "Target Support Files/Pods-ACore-ACoreTests/Pods-ACore-ACoreTests.release.xcconfig"; sourceTree = "<group>"; };
+		06C676AC9E1B081EDE0377F7 /* Pods_ACore_ACoreTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ACore_ACoreTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D41D6DEBF12F16AD90A6B42 /* Pods-ACore.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ACore.debug.xcconfig"; path = "Target Support Files/Pods-ACore/Pods-ACore.debug.xcconfig"; sourceTree = "<group>"; };
+		469BC648BF09ADE4120B3E98 /* Pods-ACore-ACoreTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ACore-ACoreTests.debug.xcconfig"; path = "Target Support Files/Pods-ACore-ACoreTests/Pods-ACore-ACoreTests.debug.xcconfig"; sourceTree = "<group>"; };
 		7F5D4DAB262D537300B4D8B5 /* ACore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ACore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F5D4DAE262D537300B4D8B5 /* ACore.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ACore.h; sourceTree = "<group>"; };
 		7F5D4DAF262D537300B4D8B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -37,8 +36,9 @@
 		7F5D4DB9262D537300B4D8B5 /* ACoreTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ACoreTests.swift; sourceTree = "<group>"; };
 		7F5D4DBB262D537300B4D8B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7F5D4DEC262D57C400B4D8B5 /* Hello.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hello.swift; sourceTree = "<group>"; };
-		EA21C7F8A5733B061F87A3B7 /* Pods_ACore_ACoreTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ACore_ACoreTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EADFA5AFD40B8EFFAD6E907B /* Pods-ACore.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ACore.release.xcconfig"; path = "Target Support Files/Pods-ACore/Pods-ACore.release.xcconfig"; sourceTree = "<group>"; };
+		A74D159D2D94AF1318952D78 /* Pods-ACore-ACoreTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ACore-ACoreTests.release.xcconfig"; path = "Target Support Files/Pods-ACore-ACoreTests/Pods-ACore-ACoreTests.release.xcconfig"; sourceTree = "<group>"; };
+		C81F6C76A34934A719379D25 /* Pods-ACore.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ACore.release.xcconfig"; path = "Target Support Files/Pods-ACore/Pods-ACore.release.xcconfig"; sourceTree = "<group>"; };
+		FB095296C248EDF88067A2C6 /* Pods_ACore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ACore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,7 +46,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				731267E06FD9B66FA1997CCE /* Pods_ACore.framework in Frameworks */,
+				6BCFF9BAC9C6F0BDBB626B39 /* Pods_ACore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -55,7 +55,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7F5D4DB5262D537300B4D8B5 /* ACore.framework in Frameworks */,
-				0B743D0AE0E41E82F1CDE506 /* Pods_ACore_ACoreTests.framework in Frameworks */,
+				339D0ED861BFBD488687D682 /* Pods_ACore_ACoreTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -69,7 +69,7 @@
 				7F5D4DB8262D537300B4D8B5 /* ACoreTests */,
 				7F5D4DAC262D537300B4D8B5 /* Products */,
 				FDC40A318526C43B70338C66 /* Pods */,
-				89ED9EEFD0E60F8BBB4F7AA4 /* Frameworks */,
+				E035455D97E115711EB902DE /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -85,9 +85,9 @@
 		7F5D4DAD262D537300B4D8B5 /* ACore */ = {
 			isa = PBXGroup;
 			children = (
+				7F5D4DFE262D608F00B4D8B5 /* Sources */,
 				7F5D4DAE262D537300B4D8B5 /* ACore.h */,
 				7F5D4DAF262D537300B4D8B5 /* Info.plist */,
-				7F5D4DEC262D57C400B4D8B5 /* Hello.swift */,
 			);
 			path = ACore;
 			sourceTree = "<group>";
@@ -101,11 +101,27 @@
 			path = ACoreTests;
 			sourceTree = "<group>";
 		};
-		89ED9EEFD0E60F8BBB4F7AA4 /* Frameworks */ = {
+		7F5D4DFE262D608F00B4D8B5 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				32ABF604EBCFF254BE8DB99C /* Pods_ACore.framework */,
-				EA21C7F8A5733B061F87A3B7 /* Pods_ACore_ACoreTests.framework */,
+				7F5D4DFF262D649700B4D8B5 /* Hello */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		7F5D4DFF262D649700B4D8B5 /* Hello */ = {
+			isa = PBXGroup;
+			children = (
+				7F5D4DEC262D57C400B4D8B5 /* Hello.swift */,
+			);
+			path = Hello;
+			sourceTree = "<group>";
+		};
+		E035455D97E115711EB902DE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FB095296C248EDF88067A2C6 /* Pods_ACore.framework */,
+				06C676AC9E1B081EDE0377F7 /* Pods_ACore_ACoreTests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -113,10 +129,10 @@
 		FDC40A318526C43B70338C66 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				0B11EA68BC870EC9C62F3AEF /* Pods-ACore.debug.xcconfig */,
-				EADFA5AFD40B8EFFAD6E907B /* Pods-ACore.release.xcconfig */,
-				05DEF76F0D44287B03BABC77 /* Pods-ACore-ACoreTests.debug.xcconfig */,
-				354FD45F2F7FEED30073E225 /* Pods-ACore-ACoreTests.release.xcconfig */,
+				2D41D6DEBF12F16AD90A6B42 /* Pods-ACore.debug.xcconfig */,
+				C81F6C76A34934A719379D25 /* Pods-ACore.release.xcconfig */,
+				469BC648BF09ADE4120B3E98 /* Pods-ACore-ACoreTests.debug.xcconfig */,
+				A74D159D2D94AF1318952D78 /* Pods-ACore-ACoreTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -139,7 +155,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 7F5D4DBF262D537300B4D8B5 /* Build configuration list for PBXNativeTarget "ACore" */;
 			buildPhases = (
-				E1AAA1F4234BAD16A5413E90 /* [CP] Check Pods Manifest.lock */,
+				53FE6BABF33E3D3D3FA94C3B /* [CP] Check Pods Manifest.lock */,
 				7F5D4DA6262D537300B4D8B5 /* Headers */,
 				7F5D4DA7262D537300B4D8B5 /* Sources */,
 				7F5D4DA8262D537300B4D8B5 /* Frameworks */,
@@ -158,11 +174,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 7F5D4DC2262D537300B4D8B5 /* Build configuration list for PBXNativeTarget "ACoreTests" */;
 			buildPhases = (
-				EB9FA9831E6044E9629102E0 /* [CP] Check Pods Manifest.lock */,
+				7FE50AD22C93FE963A568650 /* [CP] Check Pods Manifest.lock */,
 				7F5D4DB0262D537300B4D8B5 /* Sources */,
 				7F5D4DB1262D537300B4D8B5 /* Frameworks */,
 				7F5D4DB2262D537300B4D8B5 /* Resources */,
-				43DB7B97612E47457BE3EA93 /* [CP] Embed Pods Frameworks */,
+				370C174A77255EEE6EBB1C5A /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -229,7 +245,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		43DB7B97612E47457BE3EA93 /* [CP] Embed Pods Frameworks */ = {
+		370C174A77255EEE6EBB1C5A /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -246,7 +262,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ACore-ACoreTests/Pods-ACore-ACoreTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		E1AAA1F4234BAD16A5413E90 /* [CP] Check Pods Manifest.lock */ = {
+		53FE6BABF33E3D3D3FA94C3B /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -268,7 +284,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		EB9FA9831E6044E9629102E0 /* [CP] Check Pods Manifest.lock */ = {
+		7FE50AD22C93FE963A568650 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -444,7 +460,7 @@
 		};
 		7F5D4DC0262D537300B4D8B5 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0B11EA68BC870EC9C62F3AEF /* Pods-ACore.debug.xcconfig */;
+			baseConfigurationReference = 2D41D6DEBF12F16AD90A6B42 /* Pods-ACore.debug.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -471,7 +487,7 @@
 		};
 		7F5D4DC1262D537300B4D8B5 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EADFA5AFD40B8EFFAD6E907B /* Pods-ACore.release.xcconfig */;
+			baseConfigurationReference = C81F6C76A34934A719379D25 /* Pods-ACore.release.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -497,7 +513,7 @@
 		};
 		7F5D4DC3262D537300B4D8B5 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 05DEF76F0D44287B03BABC77 /* Pods-ACore-ACoreTests.debug.xcconfig */;
+			baseConfigurationReference = 469BC648BF09ADE4120B3E98 /* Pods-ACore-ACoreTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -517,7 +533,7 @@
 		};
 		7F5D4DC4262D537300B4D8B5 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 354FD45F2F7FEED30073E225 /* Pods-ACore-ACoreTests.release.xcconfig */;
+			baseConfigurationReference = A74D159D2D94AF1318952D78 /* Pods-ACore-ACoreTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
